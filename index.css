@@ -1,0 +1,55 @@
+body {
+    background: linear-gradient(360deg, rgba(111,113,188,1) 0%, rgba(40,42,42,1) 100%);
+}
+
+.navbar {
+    width: 900px;
+    height: 60px;
+    margin-left: 131px;
+    margin-top: 86px;
+}
+
+li {
+    display: inline;
+    color: white;
+    font-family: 'Rajdhani', sans-serif;
+    font-size: 48px;
+}
+
+#yourtext {
+    margin-top: 12px;
+    margin-bottom: 3px;
+    margin-right: 86px;
+}
+
+a {
+    text-transform: uppercase;
+    text-decoration: none;
+    color: white;
+}
+
+#yourtext1 {
+    margin-right: 86px;
+}
+
+#yourtext2 {
+    margin-right: 86px;
+}
+
+a:hover {
+    color: crimson;
+}
+
+.container {
+    width: 707px;
+    height: 198px;
+    margin: auto;
+    margin-top: 200px;
+}
+
+p {
+    text-align: center;
+    color: white;
+    font-family: 'Rajdhani', sans-serif;
+    font-size: 48px;
+}
